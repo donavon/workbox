@@ -20,7 +20,7 @@
   "bugs": "https://github.com/GoogleChrome/workbox/issues",
   "homepage": "https://github.com/GoogleChrome/workbox",
   "dependencies": {
-    "@babel/runtime": "^7.3.4",
+    "@babel/runtime": "^7.16.5",
     "common-tags": "^1.8.0",
     "fs-extra": "^4.0.2",
     "glob": "^7.1.3",
