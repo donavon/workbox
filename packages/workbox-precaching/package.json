@@ -25,6 +25,6 @@
   "main": "build/workbox-precaching.prod.js",
   "module": "index.mjs",
   "dependencies": {
-    "workbox-core": "^4.1.0"
+    "workbox-core": "^3.6.3"
   }
 }
