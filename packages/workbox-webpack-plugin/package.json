@@ -28,7 +28,7 @@
     "node": ">=4.0.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "json-stable-stringify": "^1.0.1",
     "workbox-build": "^4.1.0"
   },
