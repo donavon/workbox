@@ -29,7 +29,7 @@
   "bugs": "https://github.com/googlechrome/workbox/issues",
   "homepage": "https://github.com/GoogleChrome/workbox/tree/master/packages/workbox-cli",
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "chalk": "^2.4.1",
     "common-tags": "^1.8.0",
     "fs-extra": "^7.0.0",
